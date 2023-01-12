@@ -1,1 +1,57 @@
 
+Demo and Lab = on AWS
+============================
+Notes - https://github.com/devopsschool-training-notes/datadog-delo-jan-2023
+
+Slides 
+https://www.devopsschool.com/slides/datadog/index.html
+
+Tutorials
+- https://www.devopsschool.com/blog/?s=datadog
+
+How to submit Assignment?
+www.BestDevOps.com
+
+LUNCH BREAK - 1 PM IST - 2 PM IST
+---------------------------
+BREAK 2 - 15 mins
+		 - 11:30
+		 - 3:30 
+==============================================
+================================================
+
+What is Obserbability?
+--------------------------------------------
+https://www.devopsschool.com/blog/what-is-observability/
+
+
+INFRA + LOGS | EVENTS | APM | SYN | RUM
+						--------------
+							Traces
+==========================================
+				ONE PLACE
+------------------------------------------
+			ALERTS & DASHBOARD
+
+What is Datadog?
+--------------------
+
+
+Agent install
+https://www.devopsschool.com/blog/how-to-install-datadog-agent-in-ubuntu/
+https://www.devopsschool.com/blog/how-to-install-datadog-agent-in-centos/
+https://www.devopsschool.com/blog/datadog-agent-setup-in-windows-step-by-step-guide/
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
